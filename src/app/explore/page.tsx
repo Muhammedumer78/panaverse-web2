@@ -30,12 +30,8 @@ export default function page() {
           Web 1.0 and Web 2.0 refer to eras in the history of the World Wide Web
           as it evolved through various technologies and formats. Web 1.0 refers
           roughly to the period from 1989 to 2004, where most sites consisted of
-          static pages, and the vast majority of users were consumers, not
-          producers of content. Web 2.0 is based around the idea of the web as
-          platform , and centers on user-created content uploaded to forums,
-          social media and networking services, blogs, and wikis, among other
-          services. Web 2.0 is generally considered to have begun around 2004
-          and continues to the current day.
+          static pages.Web 2.0 is based around the idea of the web as
+          platform.
         </p>
         <div>
           <Image src={png16} alt="um"></Image>
@@ -54,16 +50,7 @@ export default function page() {
           Web3 is distinct from Tim Berners-Lee 1999 concept for a Semantic Web.
           In 2006, Berners-Lee described the Semantic Web as a component of Web
           3.0, which is different from the meaning of Web3 in blockchain
-          contexts. The term Web3 was coined by Polkadot founder and Ethereum
-          co-founder Gavin Wood in 2014, referring to a decentralized online
-          ecosystem based on blockchain. In 2021, the idea of Web3 gained
-          popularity. Particular interest spiked toward the end of 2021, largely
-          due to interest from cryptocurrency enthusiasts and investments from
-          high-profile technologists and companies.Executives from venture
-          capital firm Andreessen Horowitz traveled to Washington, D.C., in
-          October 2021 to lobby for the idea as a potential solution to
-          questions about regulation of the web, with which policymakers have
-          been grappling.
+          contexts. 
         </p>
         </div>
         <div className="basis-1/2 mt-16 ml-5">
@@ -81,20 +68,7 @@ export default function page() {
           In science fiction, the &apos;metaverse&apos; is a hypothetical
           iteration of the Internet as a single, universal, and immersive
           virtual world that is facilitated by the use of virtual reality (VR)
-          and augmented reality (AR) headsets. In colloquial usage, a
-          &apos;metaverse&apos; is a network of 3D virtual worlds focused on
-          social connection. The term &apos;metaverse&apos; originated in the
-          1992 science fiction novel Snow Crash as a portmanteau of
-          &apos;meta&apos; and &apos;universe. Metaverse development is often
-          linked to advancing virtual reality technology due to the increasing
-          demands for immersion. Recent interest in metaverse development is
-          influenced by Web3, a concept for a decentralized iteration of the
-          internet. Web3 and metaverse have been used as buzzwords to exaggerate
-          the development progress of various related technologies and projects
-          for public relations purposes. Information privacy, user addiction,
-          and user safety are concerns within the metaverse, stemming from
-          challenges facing the social media and video game industries as a
-          whole.
+          and augmented reality (AR) headsets. 
         </p>
         </div>
         <div className="basis-1/2 mt-16 ml-5">
@@ -113,10 +87,7 @@ export default function page() {
             Blockchains are typically managed by a peer-to-peer (P2P) computer
             network for use as a public distributed ledger, where nodes
             collectively adhere to a consensus algorithm protocol to add and
-            validate new transaction blocks. Although blockchain records are not
-            unalterable, since blockchain forks are possible, blockchains may be
-            considered secure by design and exemplify a distributed computing
-            system with high Byzantine fault tolerance. 
+            validate new transaction blocks. 
           </p>
           </div>
       
@@ -137,12 +108,7 @@ export default function page() {
           {" "}
           TypeScript may be used to develop JavaScript applications for both
           client-side and server-side execution (as with Node.js or Deno).
-          Multiple options are available for transpilation. The default
-          TypeScript Compiler can be used, or the Babel compiler can be invoked
-          to convert TypeScript to JavaScript. TypeScript supports definition
-          files that can contain type information of existing JavaScript
-          libraries, much like C++ header files can describe the structure of
-          existing object files. 
+          Multiple options are available for transpilation. 
         </p>
         </div>
         <div className="basis-1/2 mt-16 ml-5">
@@ -158,11 +124,7 @@ export default function page() {
         <p className="text-xl font-mono text-justify p-9px decoration-slice text-black">
           JavaScript is a high-level, often just-in-time compiled language that
           conforms to the ECMAScript standard. It has dynamic typing,
-          prototype-based object-orientation, and first-class functions. It is
-          multi-paradigm, supporting event-driven, functional, and imperative
-          programming styles. It has application programming interfaces (APIs)
-          for working with text, dates, regular expressions, standard data
-          structures, and the Document Object Model (DOM). 
+          prototype-based object-orientation. 
         </p>
         </div>
         <div className="basis-1/2 mt-16 ml-5">
@@ -187,10 +149,7 @@ export default function page() {
           Toolchains&apos;advising it to developers as a solution when
           &apos;Building a server-rendered website with Node.js&apos;. Where
           traditional React apps can only render their content in the
-          client-side browser, Next.js extends this functionality to include
-          applications rendered on the server-side. The copyright and trademarks
-          for Next.js are owned by Vercel, which also maintains and leads its
-          open-source development.
+          client-side browser.
         </p>
         </div>
         <div className="basis-1/2 ">
@@ -207,18 +166,12 @@ export default function page() {
           {" "}
           Artificial intelligence (AI) is intelligence—perceiving, synthesizing,
           and inferring information—demonstrated by machines, as opposed to
-          intelligence displayed by non-human animals and humans. Example tasks
-          in which this is done include speech recognition, computer vision,
-          translation between (natural) languages, as well as other mappings of
-          inputs.
+          intelligence displayed by non-human animals and humans. 
         </p>
         <p className="text-xl font-mono text-black text-justify p-9px decoration-slice">
           AI applications include advanced web search engines (e.g., Google
           Search), recommendation systems (used by YouTube, Amazon and Netflix),
-          understanding human speech (such as Siri and Alexa), self-driving cars
-          (e.g., Waymo), generative or creative tools (ChatGPT and AI art),
-          automated decision-making and competing at the highest level in
-          strategic game systems (such as chess and Go).
+          understanding human speech (such as Siri and Alexa).
         </p>
         </div>
         <div className="basis-1/2 mt-16 ml-5">
@@ -248,11 +201,7 @@ export default function page() {
           Cloud native computing is an approach in software development that
           utilizes cloud computing to &apos;build and run scalable applications
           in modern, dynamic environments such as public, private, and hybrid
-          clouds&apos;. These technologies such as containers, microservices,
-          serverless functions, cloud native processors and immutable
-          infrastructure, deployed via declarative code are common elements of
-          this architectural style.Cloud native technologies focus on minimizing
-          users&apos; operational burden.
+          clouds&apos;.
         </p>
         </div>
         <div className="basis-1/2 mt-10 ml-5 mb-5">
@@ -269,9 +218,7 @@ export default function page() {
           {" "}
           Ambient computing is basically an evolution of interconnected concepts
           such as artificial intelligence, cognitive processing, and internet of
-          things (IoT). It is considered as one of the incredible developments
-          that has occurred in the computing space, where machines and human can
-          work together seamlessly to create a better working environment.
+          things (IoT). 
         </p>
         </div>
         <div className="basis-1/2 mt-10 ml-5 mb-5">
@@ -288,12 +235,7 @@ export default function page() {
           {" "}
           Bioinformatics is an interdisciplinary field that develops methods and
           software tools for understanding biological data, in particular when
-          the data sets are large and complex. As an interdisciplinary field of
-          science, bioinformatics combines biology, chemistry, physics, computer
-          science, information engineering, mathematics and statistics to
-          analyze and interpret the biological data. Bioinformatics has been
-          used for in silico analyses of biological queries using computational
-          and statistical techniques.
+          the data sets are large and complex. 
         </p>
         </div>
         <div className="basis-1/2 mt-10 ml-5 mb-5">
@@ -312,11 +254,7 @@ export default function page() {
           structure, function, evolution, mapping, and editing of genomes. A
           genome is an organism&apos;s complete set of DNA, including all of its
           genes as well as its hierarchical, three-dimensional structural
-          configuration. In contrast to genetics, which refers to the study of
-          individual genes and their roles in inheritance, genomics aims at the
-          collective characterization and quantification of all of an
-          organism&apos;s genes, their interrelations and influence on the
-          organism. 
+          configuration. 
         </p>
         </div>
         <div className="basis-1/2 mt-10 ml-5">
@@ -332,11 +270,7 @@ export default function page() {
         <p className="text-xl font-mono text-justify p-9px decoration-slice">
           The Internet of things (IoT) describes physical objects (or groups of
           such objects) with sensors, processing ability, software and other
-          technologies that connect and exchange data with other devices and
-          systems over the Internet or other communications networks. Internet
-          of things has been considered a misnomer because devices do not need
-          to be connected to the public internet, they only need to be connected
-          to a network, and be individually addressable.
+          technologies that connect and exchange data with other devices.
         </p>
         </div>
         <div className="basis-1/2 mt-10 ml-5 mb-5"> 
@@ -354,9 +288,7 @@ export default function page() {
           Network programmability is the use of software to deploy, manage, and
           troubleshoot network elements. A programmable network is driven by an
           intelligent software stack that can take action based on business
-          requests or network events. Let&apos;s discuss how network
-          programmability can help communication service providers adapt to new
-          trends including internet of things (IoT), 5G and edge computing.
+          requests or network events. 
         </p>
         </div>
         <div className="basis-1/2 mt-10 ml-5 mb-5">
@@ -374,14 +306,7 @@ export default function page() {
           Automation describes a wide range of technologies that reduce human
           intervention in processes, namely by predetermining decision criteria,
           subprocess relationships, and related actions, as well as embodying
-          those predeterminations in machines. Automation has been achieved by
-          various means including mechanical, hydraulic, pneumatic, electrical,
-          electronic devices, and computers, usually in combination. Complicated
-          systems, such as modern factories, airplanes, and ships typically use
-          combinations of all of these techniques. The benefit of automation
-          includes labor savings, reducing waste, savings in electricity costs,
-          savings in material costs, and improvements to quality, accuracy, and
-          precision.
+          those predeterminations in machines. 
         </p>
         </div>
         <div className="basis-1/2 mt-10 ml-5">

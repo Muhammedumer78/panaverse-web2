@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
-import png2 from "../../../public/pana.png";
+import png2 from "../../../public/logo23.webp";
 export default function Footer() {
     return (
         <>
