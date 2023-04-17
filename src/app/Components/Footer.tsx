@@ -18,17 +18,17 @@ export default function Footer() {
                         <li><Link href={'/explore'} className='  hover:text-white'>Explore</Link></li>
                         <li><Link href={'/about'} className='  hover:text-white'>About</Link></li>
                         <li><Link href={'/contact'} className='  hover:text-white'>Contact</Link></li>
-                        <li><Link href={'/Syllabus'} className='  hover:text-white'>Syllabus</Link></li>
+                    
                     </ul>
                 </div>
                 <div className=' md:w-1/4 mb-[20px] md:mb-[0px]'>
                     <h1 className=' text-white text-2xl font-bold border-l-blue-600 border-l-[6px] pl-[10px]'>Follow Us</h1>
                     <ul className=' text-gray-600 pt-[30px]'>
-                        <li><Link href={'/'} className='  hover:text-white'>Facebook</Link></li>
-                        <li><Link href={'/'} className='  hover:text-white'>Linkedin</Link></li>
-                        <li><Link href={'/'} className='  hover:text-white'>Twitter</Link></li>
-                        <li><Link href={'/'} className='  hover:text-white'>Youtube</Link></li>
-                        <li><Link href={'/'} className='  hover:text-white'>GitHub</Link></li>
+                        <li><Link href={'/https://www.facebook.com/panaverse.dao/'} className='  hover:text-white'>Facebook</Link></li>
+                        <li><Link href={'/https://www.linkedin.com/company/panaverse/?originalSubdomain=pk'} className='  hover:text-white'>Linkedin</Link></li>
+                        <li><Link href={'/https://twitter.com/panaverse_edu?lang=en'} className='  hover:text-white'>Twitter</Link></li>
+                        <li><Link href={'/https://www.youtube.com/@panaverse'} className='  hover:text-white'>Youtube</Link></li>
+                        <li><Link href={'/https://github.com/panaverse'} className='  hover:text-white'>GitHub</Link></li>
                     </ul>
                 </div>
                 <div className=' md:w-1/4 mb-[20px] md:mb-[0px]'>
